@@ -1,0 +1,16 @@
+Comandos Git
+
+git config --global user.name "Diego Rodrigues Campos" // Comando para configurar o usuário
+
+git config --global user.email campsodiego@gmail.com // Comando para configuração de usuário de email no GIT
+
+cd [nome da pasta que deseja navegar // Comando para navegar entre diretórios caso o diretório possua " " adicione o nome da pasta entre aspas duplas
+
+git init // Comando para inicializar um diretório no GIT
+
+git add [nome do arquivo] // Comando para adicionar o arquivo a lista de arquivos rastreáveis
+
+git commit // Comando para enviar o arquivo para a área de stage 
+
+git comit -m // mesmo comando mas com mensagem descritiva do que está sendo alterado
+
